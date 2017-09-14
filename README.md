@@ -1,4 +1,4 @@
-#Data Structures Practice in JavaScript 
+# Data Structures Practice in JavaScript 
 
 This repo contains a bunch of different CS concepts that I want to explore in JavaScript. I know there are a lot of resources out there to help learn algorithms and data structures, but most of that code is in C, C++, Java, or Python. 
 
